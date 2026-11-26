@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 50 in 39 lines: 12 · 2/114, · 77_00 · 445o CAR · Eskstoes · To H & fETC · DES SNATE · SR5 · FOR · ZEE DRG · 06 · FoR M7so NON-INVERTING
 - **Wiring (first pass):** 56 connected wire groups from 556 runs, 2 dotted junctions; labelled ends: 179 mm → DATE, AAT FKLAL; 78 mm → Liv, UNE; 46 mm → Dener; 36 mm → CRI4; 23 mm → SR5
 
-Every curve, box, word and wire group: [19xx - M750 - DOC - 750-02-091 - LINE RECEIVER DEIVER (traced).json](../SCHEMATICS/19xx%20-%20M750%20-%20DOC%20-%20750-02-091%20-%20LINE%20RECEIVER%20DEIVER%20(traced).json) (the CAD file: `19xx - M750 - DOC - 750-02-091 - LINE RECEIVER DEIVER (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M750 - DOC - 750-02-091 - LINE RECEIVER DEIVER (traced).json](../SCHEMATICS/19xx%20-%20M750%20-%20DOC%20-%20750-02-091%20-%20LINE%20RECEIVER%20DEIVER%20%28traced%29.json) (the CAD file: `19xx - M750 - DOC - 750-02-091 - LINE RECEIVER DEIVER (traced).dxf`).
 
 ## Full text
 
