@@ -1,6 +1,6 @@
 # M750 Line Receiver Driver · Communication
 
-Ward-Beck Systems M750, 1971|4. Wiki page: [M750 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M750.html)
+Ward-Beck Systems M750, 1971|4. Wiki page: [M750 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M750-Line-Receiver-Driver/)
 
 | Folder | What is in it | Files |
 |---|---|---|

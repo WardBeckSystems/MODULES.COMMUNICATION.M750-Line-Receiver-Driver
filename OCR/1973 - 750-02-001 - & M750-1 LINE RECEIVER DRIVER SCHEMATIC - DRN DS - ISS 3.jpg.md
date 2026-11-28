@@ -1,5 +1,5 @@
 # 1973 - 750-02-001 - & M750-1 LINE RECEIVER DRIVER SCHEMATIC - DRN DS - ISS 3.jpg
-Wiki page: [M750](../../../../PAGES/M750.md)
+Wiki page: [M750](../)
 
 
 - **Year:** 1973 (title block date)

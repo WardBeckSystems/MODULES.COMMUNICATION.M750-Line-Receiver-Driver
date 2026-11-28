@@ -1,5 +1,5 @@
 # 1971 - 750-02-005 - M750A & M750B BOARD INTERCONNECT DIAGRAM - DRN PWL - ISS 2.jpg
-Wiki page: [M750](../../../../PAGES/M750.md)
+Wiki page: [M750](../)
 
 
 - **Year:** 1971 (title block date)
